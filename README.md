@@ -1,5 +1,12 @@
 # tSHOT
 Select text in any program, press shortcutkey. Auto-upload to selected service and tags+comment.
+- $Selection
+- $Comment
+- $Program
+- $Date
+- $Time
+- $Tags
+
 
 - *This is a work in progress.*
 
