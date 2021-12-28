@@ -1,4 +1,4 @@
-# tSHOT
+# tSHOT - *This is a work in progress.*
 Select text in any program, press shortcutkey. Auto-upload to selected service and tags+comment.
 - $Selection
 - $Comment
@@ -8,7 +8,7 @@ Select text in any program, press shortcutkey. Auto-upload to selected service a
 - $Tags
 
 
-- *This is a work in progress.*
+
 
 *IDEA*
 - https://whimsical.com/tshot-G9hofVqoBnjL4UQgTPJuao
